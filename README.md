@@ -1,7 +1,7 @@
 # Eletricidade Vermelha: Bloco a Bloco ⚡
 
 ## 📒 Descrição
-Este e-book de 19 páginas conta como o jogo chamado Minecraft aplica, em suas mecânicas, uma versão simplificada da eletricidade que conhecemos.
+Este eBook de 19 páginas conta como o jogo chamado Minecraft aplica, em suas mecânicas, uma versão simplificada da eletricidade que conhecemos.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
